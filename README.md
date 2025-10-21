@@ -14,6 +14,6 @@ A Python web scraper that collects quotes and authors from quotes.toscrape.com
 
 ## What I learned
 - HTTP requests with `requests` library
-- HTML parsing with BeautifulSoup
-- Error handling with try/except
-- Writing data to CSV files
+- Parsing HTML with BeautifulSoup
+- Handling errors with try/except
+- Saving data to CSV files
